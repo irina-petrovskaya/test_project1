@@ -8,4 +8,7 @@ package a.b.c;
  * To change this template use File | Settings | File Templates.
  */
 public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello!");
+    }
 }
