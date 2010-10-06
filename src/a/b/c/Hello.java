@@ -1,15 +1,11 @@
 package a.b.c;
 
 /**
- * Created by IntelliJ IDEA.
- * User: Irina.Petrovskaya
- * Date: 07.09.2010
- * Time: 16:01:54
- * To change this template use File | Settings | File Templates.
+ * Created by  Irina.Petrovskaya at 07.09.2010, 16:01:54
  */
 public class Hello {
     public static void main(String[] args) {
-
+         // ddd
         String arg = args[0];
         System.out.println("hello, "+ arg + "!");
     }
