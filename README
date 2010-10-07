@@ -29,6 +29,6 @@ java.lang.RuntimeException: com.intellij.util.IncorrectOperationException: Canno
  at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:161)
  at java.awt.EventDispatchThread.run(EventDispatchThread.java:122)
 Caused by: com.intellij.util.IncorrectOperationException: Cannot remove default changelist
- ... 27 more   fffffffff  ddddd
+ ... 27 more   fffffffff  ddddd  tttt        fffffffff
 
  c2bb35a565d8da4bb0dc72c4d3a14eb38248cedf
