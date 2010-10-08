@@ -1,4 +1,4 @@
-package a.b.c;
+package a.b.xxxxxx;
 
 /**
  * Created by  Irina.Petrovskaya at 07.09.2010, 16:01:54
