@@ -1,8 +1,9 @@
-package a.b.xxxxxx;
+package a.b;
 
 /**
  * Created by  Irina.Petrovskaya at 08.10.10, 13:56
  */
 public class TTT {
-    // kkkk
+    // kkkk  ftffff
+    //f fff
 }
