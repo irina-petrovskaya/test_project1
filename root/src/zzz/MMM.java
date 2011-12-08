@@ -6,4 +6,6 @@ package zzz;
 public class MMM {
     // jjjjjj
     String rrr;
+    int mm;
+    
 }
