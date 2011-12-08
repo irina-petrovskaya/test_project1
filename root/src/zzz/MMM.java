@@ -5,4 +5,5 @@ package zzz;
  */
 public class MMM {
     // jjjjjj
+    String rrr;
 }
