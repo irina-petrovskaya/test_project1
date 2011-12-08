@@ -13,4 +13,6 @@ public class R1 {
     public void setSss(String sss) {
         this.sss = sss;
     }
+    
+    int iii;
 }
