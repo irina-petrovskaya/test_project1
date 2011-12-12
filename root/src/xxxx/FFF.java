@@ -4,7 +4,14 @@ package xxxx;
  * by Irina.Petrovskaya, on 05.12.11, 19:16
  */
 public class FFF {
-    
+
+    public void foo(){
+
+    }
+    public void boo(){
+
+
+    }
     public String zoo(){
         return "";
     }
