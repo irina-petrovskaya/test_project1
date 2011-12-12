@@ -5,12 +5,12 @@ public class FFFImpl extends FFF {
 
       @java.lang.Override
       public void foo() {
-          super.foo();    //To change body of overridden methods use File | Settings | File Templates.
+          super.foo();
       }
 
       @java.lang.Override
       public void boo() {
-          super.boo();    //To change body of overridden methods use File | Settings | File Templates.
+          super.boo();
       }
 
       @Override
