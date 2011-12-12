@@ -8,4 +8,8 @@ public class FFF {
     public void foo(){
 
     }
+    public void boo(){
+
+
+    }
 }
