@@ -1,5 +1,5 @@
 package xxxx;
 
-  // jjjjjj      fffffff
+  // yyyy
 public class FFFImpl extends FFF {
 }
