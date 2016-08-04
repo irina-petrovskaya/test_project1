@@ -1,34 +1,4 @@
 test_project1 - to test github
 change1
-java.lang.RuntimeException: com.intellij.util.IncorrectOperationException: Cannot remove default changelist
- at com.intellij.openapi.vcs.changes.ChangeListWorker.removeChangeList(ChangeListWorker.java:274)
- at com.intellij.openapi.vcs.changes.local.RemoveList.apply(RemoveList.java:36)
- at com.intellij.openapi.vcs.changes.Modifier.a(Modifier.java:66)
- at com.intellij.openapi.vcs.changes.Modifier.removeChangeList(Modifier.java:55)
- at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.removeChangeList(ChangeListManagerImpl.java:591)
- at com.intellij.openapi.vcs.changes.ChangeListManagerImpl.removeChangeList(ChangeListManagerImpl.java:597)
- at com.intellij.tasks.actions.SwitchTaskAction.removeTask(SwitchTaskAction.java:199)
- at com.intellij.tasks.actions.SwitchTaskAction$5$1.actionPerformed(SwitchTaskAction.java:147)
- at com.intellij.ui.popup.PopupFactoryImpl$ActionPopupStep$1.run(PopupFactoryImpl.java:482)
- at com.intellij.openapi.wm.impl.FocusManagerImpl.c(FocusManagerImpl.java:406)
- at com.intellij.openapi.wm.impl.FocusManagerImpl.doWhenFocusSettlesDown(FocusManagerImpl.java:346)
- at com.intellij.openapi.actionSystem.impl.ActionManagerImpl$MyTimer.a(ActionManagerImpl.java:1227)
- at com.intellij.openapi.actionSystem.impl.ActionManagerImpl$MyTimer.actionPerformed(ActionManagerImpl.java:1212)
- at javax.swing.Timer.fireActionPerformed(Timer.java:271)
- at javax.swing.Timer$DoPostEvent.run(Timer.java:201)
- at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:209)
- at java.awt.EventQueue.dispatchEvent(EventQueue.java:597)
- at com.intellij.ide.IdeEventQueue.f(IdeEventQueue.java:628)
- at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:509)
- at com.intellij.ide.IdeEventQueue.b(IdeEventQueue.java:406)
- at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:370)
- at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:269)
- at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:184)
- at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:174)
- at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:169)
- at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:161)
- at java.awt.EventDispatchThread.run(EventDispatchThread.java:122)
-Caused by: com.intellij.util.IncorrectOperationException: Cannot remove default changelist
- ... 27 more   fffffffff  ddddd  tttt        fffffffff
 
- c2bb35a565d8da4bb0dc72c4d3a14eb38248cedf
+
