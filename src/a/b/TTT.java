@@ -2,7 +2,7 @@ package a.b;
 
 /**
  * Created by  Irina.Petrovskaya at 08.10.10, 13:56
- * master
+ * test
  */
 public class TTT {
     // kkkk  ftffff
