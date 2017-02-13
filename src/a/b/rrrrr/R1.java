@@ -5,13 +5,5 @@ package a.b.rrrrr;
  * test
  */
 public class R1 {
-   String sss;   // jjjj
-
-    public String getSss() {
-        return sss;
-    }
-
-    public void setSss(String sss) {
-        this.sss = sss;
-    }
+    // test
 }
