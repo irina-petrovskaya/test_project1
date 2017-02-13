@@ -5,7 +5,5 @@ package a.b;
  * master
  */
 public class TTT {
-    // kkkk  ftffff
-    //f fff  ddddd
-    //ddddd
+
 }

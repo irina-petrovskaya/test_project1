@@ -5,4 +5,5 @@ package zzz;
  * master
  */
 public class OOO {
+
 }

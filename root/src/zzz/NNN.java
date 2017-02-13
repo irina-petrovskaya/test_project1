@@ -5,5 +5,5 @@ package zzz;
  * master
  */
 public class NNN {
-    /// jjj
+
 }

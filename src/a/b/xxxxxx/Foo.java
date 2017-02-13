@@ -5,5 +5,5 @@ package a.b.xxxxxx;
  * master
  */
 public class Foo {
-    // change in branch
+
 }
